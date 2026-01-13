@@ -2,6 +2,8 @@
 
 A agent-based model simulating protest dynamics using the GAMA platform. This simulation explores emergent crowd behavior through heterogeneous agents employing different AI architectures: **BDI (Belief-Desire-Intention)** for police decision-making and **Q-Learning** for journalist behavior optimization.
 
+![dashboards](./dashboard.png)
+
 ## Overview
 
 This simulation models a protest scenario with two rival protester groups, police forces, journalists, medics, and bystanders. Each agent type has distinct behaviors, goals, and decision-making mechanisms that interact to produce complex emergent dynamics.
